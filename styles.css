@@ -1,0 +1,30 @@
+h1{
+  background: rgba(211, 211, 211, 0.4);
+    font-size: 40px;
+   font-family: AnjaliOldLipi;
+    text-align: center;
+    color: white;
+}
+button{
+   background: beige;
+}
+body{
+   backdrop-filter: drop-shadow();
+    background: beige;
+    padding: revert;
+    font-family: Chilanka;
+    font-size: 30px;
+}
+table{
+    font-size: 20px;
+background: blanchedalmond;
+}
+ul{
+    font-size: 20px;
+}
+strong{
+    text-align: center;
+    background: lightgray;
+    color: white;
+
+}
